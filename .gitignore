@@ -1,0 +1,4 @@
+env/
+.vscode
+__PYCACHE__/
+.DS_Store
